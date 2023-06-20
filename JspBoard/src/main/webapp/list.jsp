@@ -141,7 +141,7 @@
   //3)다음 블럭 1~14 < 15
    if(endPage < pageCount) {%>
  <a href="list.jsp?pageNum=<%=startPage+blockSize%>">
-  [다음]</a>  
+  [다음2]</a>  
   <% 
      }//다음블럭
   }//if(count > 0){
